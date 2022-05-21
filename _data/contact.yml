@@ -1,19 +1,22 @@
 #  The contact options.
 
 -
-  type: github
-  icon: 'fab fa-github'
--
-  type: twitter
-  icon: 'fab fa-twitter'
--
   type: email
   icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
   noblank: true
+-
+  type: messenger
+  icon: 'fab fa-facebook-messenger'
+  url: 'https://www.messenger.com/t/100050571853116/'
+         # open link in current tab
+-
+  type: skype
+  icon: 'fab fa-skype'
+  url: 'https://join.skype.com/invite/ySCGyVxb9dYV'
+-
+  type: telegram
+  icon: 'fab fa-telegram-plane'
+  url: 'https://t.me/shuu9x'
 
 # Uncomment and complete the url below to enable more contact options
 # -
